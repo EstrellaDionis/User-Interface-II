@@ -86,17 +86,18 @@ div.description p{
 }
 
 div.description button{
-    width: 30%;
+    width: 20%;
+    text-align: center;
 }
 
 section.row div.portfolio-element{
     flex-basis: 25%;
-
 }
 
 .wrapper{
     display: flex;
     flex-direction: column;
+    padding-left: 50px;
 }
 
 .portfolio-element:first-child{
